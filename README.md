@@ -21,7 +21,7 @@ Berikut ini username dan password yang digunakan
    password : n
 2. username : jwd (admin)
    password : jwd123 
-3. username : Alucard
+3. username : Alucard (user)
    password : a
  
 Desain/Analisa/Programmer :

@@ -16,7 +16,14 @@ Adapun fitur aplikasi PSB Online adalah sebagai berikut:
 
 
 ===============================================
-
+Berikut ini username dan password yang digunakan 
+1. username : Nusa (user)
+   password : n
+2. username : jwd (admin)
+   password : jwd123 
+3. username : Alucard
+   password : a
+ 
 Desain/Analisa/Programmer :
 Nama : Rizkiah Rahmah Hatta
 Inisial : rizkiah

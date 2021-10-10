@@ -24,10 +24,10 @@ Berikut ini username dan password yang digunakan
 3. username : Alucard (user)
    password : a
  
-Desain/Analisa/Programmer :
-Nama : Rizkiah Rahmah Hatta
-Inisial : rizkiah
-Email : rizkiahrahmahhatta19@gmail.com
+- Desain/Analisa/Programmer :
+- Nama : Rizkiah Rahmah Hatta
+- Inisial : rizkiah
+- Email : rizkiahrahmahhatta19@gmail.com
  
 
 TERIMA KASIH.
